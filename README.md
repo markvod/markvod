@@ -1,27 +1,24 @@
 <h1 align="center">Hi 👋, I'm Marcos Dias</h1>
 <h3 align="center">A passionate Devops|SRE|Cloud Engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markvod&label=Profile%20views&color=0e75b6&style=flat" alt="markvod" /> </p>
+🚀 Professional Summary:
+I'm an enthusiastic tech professional with a solid foundation in Cloud Computing and DevOps practices. My journey in the technology world has been enriched by my academic pursuits, certifications, and impactful projects:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markvod" alt="markvod" /></a> </p>
+🎓 Academic Excellence: Currently pursuing a Master's degree in Cloud Computing, expected completion in September 2024. This journey deepens my understanding of cutting-edge technologies and cloud best practices, igniting my passion for innovation. Alongside, I hold a Bachelor's degree in Information Systems at UNESA and have completed coursework at institutions like 42 École and FAMERC, broadening my knowledge and honing problem-solving skills.
 
-- 🌱 I’m currently learning **I am currently pursuing a post-graduate degree in Cloud Computing, which means I'm likely expanding my knowledge in cloud-related technologies and practices.**
+📜 Certifications: My dedication to continuous learning is reflected in my certifications.
 
-- 👯 I’m looking to collaborate on **I'm open to collaborating on projects related to DevOps, cloud computing, and infrastructure management.**
+🌐 Language Proficiency:
+🇧🇷 Portuguese: Native proficiency
+🇺🇸 English: Advanced proficiency
 
-- 💬 Ask me about **Cloud, IT, Infrastructure, automations, terraform, python, docker, kubernetes.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcosvod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcosvod/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22781488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22781488" height="30" width="40" /></a>
-<a href="https://medium.com/@mark_vod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mark_vod" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markvod&show_icons=true&locale=en&layout=compact" alt="markvod" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markvod&show_icons=true&locale=en" alt="markvod" /></p>
-
+☁️ Cloud Expertise: Proficient in cloud technologies, particularly Microsoft Azure and AWS, I excel in architecting, deploying, and optimizing cloud-based solutions for scalability and operational efficiency.
+🔧 DevOps Mastery: I possess a solid grasp of DevOps principles and practices, encompassing CI/CD pipelines, Infrastructure as Code (IaC), automation, and more, crucial for streamlined development workflows and reliable software delivery.
+💼 Professional Experience: I've excelled in various roles, leveraging my cloud and DevOps expertise to drive excellence.
+🛠️ CI/CD Pipelines: Extensive experience in implementing and maintaining CI/CD pipelines using Azure Pipelines, ensuring seamless deployment processes.
+📜 Infrastructure as Code (IaC): Proficient in IaC tools like Terraform for infrastructure provisioning and management.
+🔌 Scripting and Automation: Strong scripting skills in Python and Bash enhance operational efficiency through task automation and tool development.
+📊 Monitoring and Logging: Utilized various tools (Zabbix, Grafana Loki, Prometheus, DataDog, New Relic) for platform health and performance maintenance.
+🐳 Container Orchestration: Proficient in optimizing resource utilization and scalability through container orchestration services.
+💌 Message Queues: Managed message queues using RabbitMQ, facilitating efficient communication.
+🔒 Security and Compliance: Adhered to best practices for security, scalability, and data governance, including PCI, GDPL, and SOx standards.
