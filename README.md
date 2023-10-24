@@ -28,9 +28,9 @@ My role was centered around continuous infrastructure improvement, adhering to b
 Pontificial Catholic University of Minas Gerais 
 Postgraduate's Degree, Cloud Computing | Sep 2023 - Sep 2024
 # Certifications
-AWS Certified: Cloud Practitioner.
-Microsoft Certified: Azure Fundamentals – AZ-900.
-Azure Security, Compliance, and Identity: SC-900.
-Azure Power Platform: PL-900.
-Azure Data – DP-900. Azure Artificial Intelligence: AI-900.
-EFSET English Certificate 75/100 (C2 Proficient) – equivalent (IELTS 8.0-9.0) (TOEFL 95-120)
+- AWS Certified: Cloud Practitioner.
+- Microsoft Certified: Azure Fundamentals – AZ-900.
+- Azure Security, Compliance, and Identity: SC-900.
+- Azure Power Platform: PL-900.
+- Azure Data – DP-900. Azure Artificial Intelligence: AI-900.
+- EFSET English Certificate 75/100 (C2 Proficient) – equivalent (IELTS 8.0-9.0) (TOEFL 95-120)
