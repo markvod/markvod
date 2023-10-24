@@ -9,13 +9,7 @@
 
 - 👯 I’m looking to collaborate on **I'm open to collaborating on projects related to DevOps, cloud computing, and infrastructure management.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/markvod](https://github.com/markvod)
-
-- 📝 I regularly write articles on [https://medium.com/@mark_vod](https://medium.com/@mark_vod)
-
 - 💬 Ask me about **Cloud, IT, Infrastructure, automations, terraform, python, docker, kubernetes.**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/marcosvod](https://www.linkedin.com/in/marcosvod)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
