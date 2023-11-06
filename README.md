@@ -20,17 +20,19 @@ Experienced Devops Engineer with a strong background in implementing and maintai
 I am a member of the Stone Alerts and Incidents Platform team, overseeing the availability, integration, performance, efficiency, monitoring, change management, emergency response, and capacity planning of team services and software platforms. 
 My expertise includes extensive experience in implementing and maintaining Azure Pipelines for CI/CD. Notably, I played a key role in the continuous maintenance of Stone's institutional website, managing ongoing tasks, creating documentation/runbooks, and deploying updates to STG/PROD environments as required.
 
+## Mycapital
 ### Sysadmin Devops - Azure Infrastructure | Rio de Janeiro, Brazil | Mar 2019 - Jul 2023
 My role was centered around continuous infrastructure improvement, adhering to best security practices, and ensuring database continuity and replication. Furthermore, I had the privilege of leading an infrastructure team, offering training and mentorship for successful career development. One of my most notable achievements was the successful migration from on-premises infrastructure to the cloud, resulting in a 70% cost reduction compared to previous expenses.
 
 
 # Education
-Pontificial Catholic University of Minas Gerais 
-Postgraduate's Degree, Cloud Computing | Sep 2023 - Sep 2024
+- Pontificial Catholic University of Minas Gerais Postgraduate's Degree, Cloud Computing | Sep 2023 - Sep 2024
+- Estácio Bachelor's degree, Information systems.
 # Certifications
 - AWS Certified: Cloud Practitioner.
 - Microsoft Certified: Azure Fundamentals – AZ-900.
 - Azure Security, Compliance, and Identity: SC-900.
 - Azure Power Platform: PL-900.
-- Azure Data – DP-900. Azure Artificial Intelligence: AI-900.
+- Azure Data – DP-900.
+- Azure Artificial Intelligence: AI-900.
 - EFSET English Certificate 75/100 (C2 Proficient) – equivalent (IELTS 8.0-9.0) (TOEFL 95-120)
